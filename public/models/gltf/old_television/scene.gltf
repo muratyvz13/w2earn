@@ -1,0 +1,425 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 81,
+      "max": [
+        1.784186601638794,
+        4.713411808013916,
+        0.7357965707778931
+      ],
+      "min": [
+        -3.4255781173706055,
+        0.8231032490730286,
+        0.3042120933532715
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 972,
+      "componentType": 5126,
+      "count": 81,
+      "max": [
+        0.25570711493492126,
+        0.3221011459827423,
+        1.0
+      ],
+      "min": [
+        -0.24928034842014313,
+        -0.3137446939945221,
+        0.9467034339904785
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 81,
+      "max": [
+        0.9999998211860657,
+        0.0851592943072319,
+        0.2492290735244751,
+        1.0
+      ],
+      "min": [
+        0.9666851758956909,
+        -0.07980353385210037,
+        -0.25570154190063477,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 81,
+      "max": [
+        1.0,
+        0.7396354079246521
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 384,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1944,
+      "componentType": 5126,
+      "count": 1532,
+      "max": [
+        3.7891006469726563,
+        5.132007598876953,
+        0.6691851615905762
+      ],
+      "min": [
+        -3.95974063873291,
+        -0.010504722595214844,
+        -4.5559515953063965
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20328,
+      "componentType": 5126,
+      "count": 1532,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1296,
+      "componentType": 5126,
+      "count": 1532,
+      "max": [
+        1.0,
+        0.9994245767593384,
+        0.9999916553497314,
+        1.0
+      ],
+      "min": [
+        -0.9999997615814209,
+        -0.9998998641967773,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 648,
+      "componentType": 5126,
+      "count": 1532,
+      "max": [
+        0.8904693722724915,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1536,
+      "componentType": 5125,
+      "count": 5268,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Qu3st10n (https://sketchfab.com/Qu3st10n)",
+      "license": "CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+      "source": "https://sketchfab.com/3d-models/old-television-ed8b9b28338242c38c10652ba6f4e02c",
+      "title": "Old Television"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 22608,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12904,
+      "byteOffset": 22608,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38712,
+      "byteOffset": 35512,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25808,
+      "byteOffset": 74224,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 100032,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Screen_mat_baseColor.png"
+    },
+    {
+      "uri": "textures/Screen_mat_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Screen_mat_emissive.png"
+    },
+    {
+      "uri": "textures/Screen_mat_normal.png"
+    },
+    {
+      "uri": "textures/TV_mat_baseColor.png"
+    },
+    {
+      "uri": "textures/TV_mat_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/TV_mat_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "Screen_mat",
+      "normalTexture": {
+        "index": 3
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "name": "TV_mat",
+      "normalTexture": {
+        "index": 6
+      },
+      "occlusionTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Screen_low_Screen_mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "TV_low_TV_mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.125,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.7755575615628914e-17,
+        -0.125,
+        0.0,
+        0.0,
+        0.125,
+        2.7755575615628914e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "700e87caa7fc4bdca9d566a655dd6131.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "Screen_low"
+    },
+    {
+      "mesh": 0,
+      "name": "Screen_low_Screen_mat_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "TV_low"
+    },
+    {
+      "mesh": 1,
+      "name": "TV_low_TV_mat_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    }
+  ]
+}

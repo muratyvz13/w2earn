@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Television
+* source:	https://sketchfab.com/3d-models/old-television-ed8b9b28338242c38c10652ba6f4e02c
+* author:	Qu3st10n (https://sketchfab.com/Qu3st10n)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Television" (https://sketchfab.com/3d-models/old-television-ed8b9b28338242c38c10652ba6f4e02c) by Qu3st10n (https://sketchfab.com/Qu3st10n) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
