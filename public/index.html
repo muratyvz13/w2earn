@@ -383,7 +383,7 @@
     
       var numTorus = 80;
       var tabTorus = [];
-      var timeleft = 30;
+      var timeleft = 3;
       var rainbow=0;
       var downloadTimer = setInterval(function(){
         if(timeleft <= 0){
@@ -456,7 +456,7 @@
           camera.position.y += ( - mouseY - camera.position.y ) * .05;
           update();
         }
-        //camera.position.z -= 0.004
+        camera.position.z -= 0.004
         if(rotatex==0)
         {
           camera.rotation.x+=0.001;
